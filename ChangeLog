@@ -4,4 +4,15 @@ Version 0.1
    dialogs/krunner.svg
    dialogs/shutdowndialog.svg
 
+Version 0.2
+ updated:
+   widgets/background.svg
+   widgets/bar_meter_horizontal.svg
+   widgets/bar_meter_vertical.svg
+   widgets/branding.svg
+   widgets/calendar.svg
+   widgets/eyes.svg
+   widgets/panel-background.svg
+   widgets/tasks.svg
+   widgets/tooltip.svg
 

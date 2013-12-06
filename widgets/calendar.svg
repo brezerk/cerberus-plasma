@@ -14,7 +14,7 @@
    width="1039.2434"
    height="393.32373"
    id="svg3383"
-   inkscape:version="0.47pre4 r22446"
+   inkscape:version="0.48.4 r9939"
    sodipodi:docname="calendar.svg">
   <metadata
      id="metadata71">
@@ -36,28 +36,27 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1024"
-     inkscape:window-height="715"
+     inkscape:window-width="1412"
+     inkscape:window-height="833"
      id="namedview69"
      showgrid="false"
      inkscape:zoom="2.9459477"
-     inkscape:cx="634.87773"
-     inkscape:cy="224.2613"
-     inkscape:window-x="-15"
-     inkscape:window-y="0"
+     inkscape:cx="599.88977"
+     inkscape:cy="251.41725"
+     inkscape:window-x="28"
+     inkscape:window-y="-1"
      inkscape:window-maximized="1"
-     inkscape:current-layer="green" />
+     inkscape:current-layer="layer1" />
   <defs
      id="defs3385">
     <linearGradient
-       inkscape:collect="always"
        id="linearGradient2879">
       <stop
-         style="stop-color:#008080;stop-opacity:1;"
+         style="stop-color:#ca8716;stop-opacity:1;"
          offset="0"
          id="stop2881" />
       <stop
-         style="stop-color:#008080;stop-opacity:0;"
+         style="stop-color:#ca8080;stop-opacity:0;"
          offset="1"
          id="stop2883" />
     </linearGradient>
@@ -350,21 +349,21 @@
        x="169.33711"
        y="148.94318"
        id="active"
-       style="opacity:0.5;fill:none;fill-opacity:1;stroke:#00ffff;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:1.08779998000000000;stroke-opacity:1" />
+       style="opacity:0.50000000000000000;fill:none;stroke:#c56b00;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:1.08779998000000000" />
     <rect
        width="18"
        height="18"
        x="126.33712"
        y="148.94318"
        id="inactive"
-       style="opacity:0.29999999999999999;fill:#008080;fill-opacity:1;stroke:#008080;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:1.08779998000000000;stroke-opacity:1" />
+       style="opacity:0.29999999999999999;fill:#ca9916;fill-opacity:1;stroke:#fad721;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:1.08779998000000000;stroke-opacity:1" />
     <rect
        width="18"
        height="18"
        x="214.27873"
        y="148.94318"
        id="hoverHighlight"
-       style="opacity:1;fill:none;fill-opacity:1;stroke:#00ffff;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:1.08779998000000000;stroke-opacity:1" />
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#fad721;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:1.08779998000000000;stroke-opacity:1" />
     <g
        id="today"
        style="fill:#ffffff;opacity:0.50000000000000000">
@@ -376,28 +375,28 @@
     </g>
     <g
        id="selected"
-       style="fill:#1919ff;fill-opacity:1">
+       style="fill:#fad721;fill-opacity:1">
       <path
          d="M 155.33712,193.43195 L 155.33712,214.43195 L 176.33712,214.43195 L 176.33712,193.43195 L 155.33712,193.43195 z M 156.83712,194.93195 L 171.83712,194.93195 L 174.83712,197.93195 L 174.83712,212.93195 L 159.83712,212.93195 L 156.83712,209.93195 L 156.83712,194.93195 z"
          id="selectedgfg"
-         style="opacity:1;fill:#00ffff;fill-opacity:1;stroke:none;stroke-width:0.93500000000000005;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+         style="opacity:1;fill:#fad721;fill-opacity:1;stroke:none;stroke-width:0.93500000000000005;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     </g>
     <g
        id="red"
-       style="fill:#ff2323;fill-opacity:1">
+       style="fill:#ca8716;fill-opacity:1">
       <path
          d="M 179.33712,193.43195 L 179.33712,214.43195 L 200.33712,214.43195 L 200.33712,193.43195 L 179.33712,193.43195 z M 180.83712,194.93195 L 195.83712,194.93195 L 198.83712,197.93195 L 198.83712,212.93195 L 183.83712,212.93195 L 180.83712,209.93195 L 180.83712,194.93195 z"
          id="redfgf"
-         style="opacity:0.75;fill:#00ffff;fill-opacity:1;stroke:none;stroke-width:0.93500000000000005;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+         style="opacity:0.75000000000000000;fill:#ca8716;fill-opacity:1;stroke:none;stroke-width:0.93500000000000005;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     </g>
     <g
        id="green"
-       style="fill:#21ff21;fill-opacity:1">
+       style="fill:#876316;fill-opacity:1">
       <path
          d="M 614.5,205.8125 L 614.5,226.8125 L 635.5,226.8125 L 635.5,205.8125 L 614.5,205.8125 z M 616,207.3125 L 631,207.3125 L 634,210.3125 L 634,225.3125 L 619,225.3125 L 616,222.3125 L 616,207.3125 z"
          transform="translate(-484.66288,-12.38055)"
          id="greenfgdg"
-         style="opacity:0.5;fill:#00ffff;fill-opacity:1;stroke:none;stroke-width:0.93500000000000005;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+         style="opacity:0.50000000000000000;fill:#876316;fill-opacity:1;stroke:none;stroke-width:0.93500000000000005;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     </g>
   </g>
 </svg>
