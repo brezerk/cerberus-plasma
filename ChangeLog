@@ -43,3 +43,7 @@ Version 0.7
 Version 0.8
  added:
    Cerberus.colors theme
+
+Version 0.9
+ fixed:
+   Corrupted widgets ads dialogs
