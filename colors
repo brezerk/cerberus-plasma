@@ -20,6 +20,8 @@ BackgroundNormal=0,255,255
 # Motoko Violet
 #BackgroundNormal=241,163,255
 
+BackgroundNormal=202,135,22
+
 
 #Do not edit below this line unless you know what you are doing
 
@@ -31,7 +33,7 @@ ForegroundInactive=136,135,134
 ForegroundLink=0,87,174
 ForegroundNegative=191,3,3
 ForegroundNeutral=176,128,0
-ForegroundNormal=150,220,220
+ForegroundNormal=250,213,32
 ForegroundPositive=0,110,40
 ForegroundVisited=100,74,155
 
