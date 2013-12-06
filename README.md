@@ -1,4 +1,4 @@
 cerberus-plasma
 ===============
 
-Simple Plasma theme based on Ghost theme by J.M.Todaro
+Simple Plasma theme based on themes: Ghost by J.M.Todaro; Produkt by Saleel Velankar
