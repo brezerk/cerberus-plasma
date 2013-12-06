@@ -19,3 +19,16 @@ Version 0.2
 Version 0.3
  updated:
    colors
+
+Version 0.4
+ added:
+   import Produkt Icons by Saleel Velankar
+
+Version 0.5
+ updated: 
+   apply Cerberus colors on icons
+     icons/audio.svgz
+     icons/device.svgz
+     icons/klipper.svgz
+     icons/network.svgz
+
