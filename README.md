@@ -1,7 +1,7 @@
 cerberus-plasma
 ===============
 
-Simple Plasma theme based on themes: Ghost by J.M.Todaro; Produkt by Saleel Velankar
+Theme based on art by Adam Jensen and themes: Ghost by J.M.Todaro; Produkt by Saleel Velankar;
 
 What is Plasma
 ==============

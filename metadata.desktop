@@ -1,14 +1,18 @@
 [Desktop Entry]
 Name=Cerberus
-Comment=Simple Plasma theme based on themes: Ghost by J.M.Todaro; Produkt by Saleel Velankar
+Comment=Theme based on art by Adam Jensen and themes: Ghost by J.M.Todaro; Produkt by Saleel Velankar;
 
 X-KDE-PluginInfo-Author=Alexey S. Malakhov
 X-KDE-PluginInfo-Email=brezerk@gmail.com
 X-KDE-PluginInfo-Name=Cerberus
-X-KDE-PluginInfo-Version=0.9.0
+X-KDE-PluginInfo-Version=0.10.0
 X-KDE-PluginInfo-Website=http://brezblock.org.ua
 X-KDE-PluginInfo-Category=
 X-KDE-PluginInfo-Depends=
 X-KDE-PluginInfo-License=GPL
 X-KDE-PluginInfo-EnabledByDefault=true
 X-Ubuntu-Gettext-Domain=desktop_kdebase-runtime
+
+[Wallpaper]
+defaultWallpaperTheme=Cerberus
+defaultFileSuffix=.jpg
